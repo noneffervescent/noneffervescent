@@ -2,7 +2,8 @@ My name is Nonô Saramago!
 
 _________________________________________________________________________________
 
-Interdisciplinary Natural Sciences Student in ETH Zurich
+I am an Interdisciplinary Natural Sciences Student in ETH Zurich since 2021
+
 Focus: Computational chemistry and computational biology for medicine and drug design
 
 _________________________________________________________________________________
